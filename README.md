@@ -1,2 +1,2 @@
 # JAVA-Code
-about java code
+start with java code
